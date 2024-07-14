@@ -117,3 +117,5 @@ fabric.properties
 # End of https://www.toptal.com/developers/gitignore/api/pycharm
 
 hellowrld.py
+env_name
+chapter3/mnist784.pickle
